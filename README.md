@@ -15,3 +15,7 @@ Los tópicos cubiertos son:
 - 🔭 **Moisés Gualapuro**: Docente.  
 
 - 🌱 **Francisco Mendoza**: TA.
+
+-  M**MaFer Minango**a**: TA.
+
+-  M**Angel Ojeda**a**:TA.
