@@ -16,6 +16,13 @@ Los tópicos cubiertos son:
 
 - 🌱 **Francisco Mendoza**: TA.
 
--  M**MaFer Minango**a**: TA.
+- 👋**MaFer Minango**: TA.
 
--  M**Angel Ojeda**a**:TA.
+-  🌱**Angel Ojeda**:TA.
+
+## ESTUDIANTES
+
+1. John Fariños
+
+2. Joyce Andrade
+
