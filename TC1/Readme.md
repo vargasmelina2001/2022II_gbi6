@@ -1,4 +1,3 @@
- ## Tarea de clase 1 ##
 ## Tarea de clase 1 ##
 
 ## Melina Vargas
