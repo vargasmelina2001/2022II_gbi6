@@ -15,3 +15,14 @@ Los tópicos cubiertos son:
 - 🔭 **Moisés Gualapuro**: Docente.  
 
 - 🌱 **Francisco Mendoza**: TA.
+
+- 👋**MaFer Minango**: TA.
+
+-  🌱**Angel Ojeda**:TA.
+
+## ESTUDIANTES
+
+1. John Fariños
+
+2. Joyce Andrade
+
