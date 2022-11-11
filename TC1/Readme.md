@@ -1,4 +1,5 @@
  ## Tarea de clase 1 ##
+## Tarea de clase 1 ##
 
 ## Melina Vargas
 
@@ -27,3 +28,5 @@ En esta actividad se va hacer una evaluación de lo aprendido en Unix.
 
 - Nombre del programa: Git Bash
 - Versión de Git Bash: git version 2.38.0.windowns.1
+
+**Control de versión**
