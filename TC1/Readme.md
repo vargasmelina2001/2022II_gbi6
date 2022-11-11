@@ -5,7 +5,7 @@
 En esta actividad se va hacer una evaluación de lo aprendido en Unix.
 
 **Datos personales**
-- Nombres: Melina Lileny Vargas Chida
+
 - Ciudad de origen: Dayuma
 - Idiomas: Español
 - Semestre: Sexto
