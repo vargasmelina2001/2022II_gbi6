@@ -10,6 +10,7 @@ En esta actividad se va hacer una evaluación de lo aprendido en Unix.
 - Idiomas: Español
 - Semestre: Sexto
 - Carrera: Biotecnología
+- Deporte: N/A
 
 **Datos del equipo**
 
