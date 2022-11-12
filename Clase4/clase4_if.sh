@@ -29,3 +29,6 @@ grep '>' my_file.fasta | cut -d ',' -f 4 | uniq | wc -l
 grep '>' my_file.fasta | cut -d ',' -f 1,3 | head -n 3
 grep '>' my_file.fasta | cut -d "," -f 1,3 | sort -t '=' -n -k 2 | head -n 5
 grep '>' my_file.fasta | cut -d "," -f 1,3 | sort -t '=' -n -k 2 -r| head -n 1
+
+
+
