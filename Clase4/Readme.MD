@@ -1,4 +1,5 @@
 # Realización de ejercicios 1.10-pg 52 #
+
 ## Ejercicio 1.10.1 ##
 - En el ejercicio 1.10.1 se tuvo que realizar un cambio de directorio con *cd*
  para encontrar el archivo Marra_data.fasta el cual se encontraba 
