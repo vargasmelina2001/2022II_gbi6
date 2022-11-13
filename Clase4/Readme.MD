@@ -26,3 +26,23 @@ con ayuda del *grep '>'* para poder cortar las columnas que contenían el mayor
 número de lecturas y la que contenía el número de lectura, pero para ello se 
 ordeno desde el mayor al menor para conocer el contig con mayor número de 
 lecturas.
+## Ejercicio 1.10.2 ##
+- Para este ejercicio de igual manera se tuvo que buscar el archivo y se lo realizó
+con ayuda del comando *grep -r* el cual permitió buscar el archivo en las carpetas.
+Después de encontrar la ruta se aplicó un *cd* para cambiar de directorio, este archivo
+ se encontraba *data*. Se aplicó *head* para poder visualizar la información del archivo.
+Despues cortamos la columna 1 el cual contenia los *id* y aplicamos un *grep -c -w*
+para contar las veces que se registraron los individuos 3 y 27, el *-w* permitía
+encontrar solamente al individuo 3 y 27. Después se requeria un script el cual
+tomara como entrada el nombre del archivo y el ID de la persona, el cual 
+permitíera solo ingresar el ID de la persona para que de como resultado las veces
+que se habían registrado y para ello se hizo uso del archivo *count_baboons.sh* el cual
+ contenía el script que hacia posible ingresar el ID y daba las veces
+ que se habían registrado los individuos. Y por último se escribió otro script el cual
+permitiera mostrar las veces que se muestreo a cada individuo. Para esto se hizo uso
+de un bucle sin antes guardar guardar los datos del archivo en una varible en ella
+estaba la columna de los ID unicos ordenados del menor al mayor. En el for se utilizó
+la variable que se creo que era de los ID y se dio la instrucción de ejecutar el
+*count_baboons.sh* dentro de otra varible *mycounts*, y con el *echo* se imprimió la
+instrucción dada en el bucle.
+## Ejercicio 1.10.2 ##  
