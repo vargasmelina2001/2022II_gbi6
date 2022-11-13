@@ -45,4 +45,25 @@ estaba la columna de los ID unicos ordenados del menor al mayor. En el for se ut
 la variable que se creo que era de los ID y se dio la instrucción de ejecutar el
 *count_baboons.sh* dentro de otra varible *mycounts*, y con el *echo* se imprimió la
 instrucción dada en el bucle.
-## Ejercicio 1.10.2 ##  
+## Ejercicio 1.10.3 ##  
+- Nuevamente se cambió de directorio con ayuda del *cd* para llegar a la carpeta
+Saavedra2013. Aquí pedía un script que tomara como entrada uno de los archivos dentro
+de la carpeta y que con el mismo script se pudiera determinar el número de filas. Para
+ello se tuvo que crear otro archivo al cual se lo llamó *scriptconcatenado.sh* en el 
+se colocó un *echo* para que imprimiera el nombre del archivo identificado *$1*, se
+colocó otro *echo* para que imprimiera el número de las filas y un *cat* para
+visualizar el contenido creado que en este caso fue el número de filas que contenía
+cada archivo, se agrego otro *echo* para que imprima la información del número de 
+columnas y un *head* para mostrar una fila concatenado con un *tr -d* para el eliminar
+el espacio entre columnas y poder contarlas. Ya listo el archivo del script se ejecuto
+con un * bash* junto con el archivo que quería saber el número de filas y columnas.
+De forma similar se realizó otro script el cual permitió imprimir los números de filas y
+columnas de cada archivo. Pero primero se tuvo que agregar todos los archivos en una
+variable con el objetivo de facilitar la interación con todos los archivos. Después de
+esto se aplicó un *for* y dentro de él se dio la instrucción de imprimir el número de
+filas, cuya instrucción estaba en otra variable *mifila*, de igual forma para contar las
+columnas se concateno un *head*, *tr -d* y *wc -c* para que de el número de columnas
+presentes en los archivos.
+Y por último se ejecutó un *bash* aplicando el archivo *scriptconcatenado2.sh* el cual
+tenía el script del bucle *for* para ordenar los archivos con mayor filas y columnas,
+y con ella se supo el archivo con mayor número de filas y columnas.
