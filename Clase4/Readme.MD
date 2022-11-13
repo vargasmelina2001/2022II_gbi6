@@ -47,6 +47,7 @@ estaba la columna de los ID unicos ordenados del menor al mayor. En el for se ut
 la variable que se creo que era de los ID y se dio la instrucción de ejecutar el
 *count_baboons.sh* dentro de otra varible *mycounts*, y con el *echo* se imprimió la
 instrucción dada en el bucle.
+
 ## Ejercicio 1.10.3 ##  
 - Nuevamente se cambió de directorio con ayuda del *cd* para llegar a la carpeta
 Saavedra2013. Aquí pedía un script que tomara como entrada uno de los archivos dentro
