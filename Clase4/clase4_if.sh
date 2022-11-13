@@ -1,6 +1,6 @@
 ## Ejercicio 1.10.1 ##
 ## 1. Cambie de directorio a CSB/Unix/sandbox ##
-cd CSB-master/Unix/sandbox/
+cd ../../../CSB-master/Unix/sandbox/
 ls
 
 ## 2. Cuál es el tamaño del archivo Marra2014_data.fasta? ##
