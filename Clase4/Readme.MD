@@ -23,4 +23,5 @@ fila y columna para poder cortar la columna 4 para poder contar los isogrupos
 unicos por filas. Y finalmente se volvió a buscar la información en el archivo 
 con ayuda del *grep '>'* para poder cortar las columnas que contenían el mayor 
 número de lecturas y la que contenía el número de lectura, pero para ello se 
-ordeno desde el mayor al menor para conocer el contig con mayor número de lecturas.
+ordeno desde el mayor al menor para conocer el contig con mayor número de 
+lecturas.
