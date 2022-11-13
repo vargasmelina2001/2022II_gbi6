@@ -27,6 +27,7 @@ con ayuda del *grep '>'* para poder cortar las columnas que contenían el mayor
 número de lecturas y la que contenía el número de lectura, pero para ello se 
 ordeno desde el mayor al menor para conocer el contig con mayor número de 
 lecturas.
+
 ## Ejercicio 1.10.2 ##
 - Para este ejercicio de igual manera se tuvo que buscar el archivo y se lo realizó
 con ayuda del comando *grep -r* el cual permitió buscar el archivo en las carpetas.
